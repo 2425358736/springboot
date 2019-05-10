@@ -1,0 +1,12 @@
+spring:
+  application:
+    # 服务名
+    name: springboot-rabbitmq
+  rabbitmq:
+    host: 123.206.19.217
+    port: 5672
+    username: guest
+    password: guest
+server:
+   # 服务端口
+  port: 6001
